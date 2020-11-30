@@ -9,8 +9,7 @@ import {
   Typography,
 } from '@material-ui/core';
 import { ShoppingCart } from '@material-ui/icons';
-import classes from '*.module.css';
-import logo from '../../../assets/commerce.png';
+import logo from '../../assets/commerce.png';
 
 const Narbar = () => {
   return (
